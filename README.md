@@ -13,7 +13,7 @@ DEBUG=true npm start
 open http://localhost:3000
 ```
 
-If you are on windows, run `set DEBUG=true && npm start` instead for cmd and `set DEBUG=true; npm start` for PowerShell.
+If you are on windows, run `set DEBUG=true && npm start` for cmd and `set DEBUG=true; npm start` for PowerShell.
 
 ### Dependencies
 
